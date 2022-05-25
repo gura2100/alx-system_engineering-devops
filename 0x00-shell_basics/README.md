@@ -1,0 +1,1 @@
+this is all about shell-bsics  bash file that miss shell scpit
